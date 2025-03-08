@@ -7,6 +7,22 @@ I’m passionate about building clean and efficient web solutions! With a focus 
 
 <br>
 
+### Spoken languages
+<div>
+<img  src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> 
+<img  src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+<img  src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
+<img  src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="48">
+</div>
+<br>
+
+### Work permit in countries of: 
+
+<img src="https://www.mercosur.int/wp-content/uploads/2018/04/logo-mercosur-blanco.svg" width="80"/><span>
+<img src="https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg" width="200"/></span>
+
+<br>
+
 ### Main skills
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,jquery,bootstrap,js,ts,regex,react,nextjs,redux,vitest,nodejs,express,nestjs,mongodb,mysql,sequelize,firebase,prisma,postgres,git,github,bitbucket,vscode,aws,azure,cloudfare,heroku,docker,kubernetes,ai,vercel,postman,npm,pnpm,figma)](https://skillicons.dev)
 
