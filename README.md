@@ -16,8 +16,7 @@ I’m passionate about building clean and efficient web solutions! With a focus 
 </div>
 <br>
 
-### Work permit in countries of: 
-
+### I have citizenship in countries from:
 <img src="https://www.mercosur.int/wp-content/uploads/2018/04/logo-mercosur-blanco.svg" width="80"/><span>
 <img src="https://european-union.europa.eu/themes/contrib/oe_theme/dist/eu/images/logo/standard-version/positive/logo-eu--en.svg" width="200"/></span>
 
