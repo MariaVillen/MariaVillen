@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=AED6F1&width=600&lines=Hi+there!;I+am+Maria+Villen;Web+Developer+-+Frontend+%26+Backend)](https://git.io/typing-svg)
 
 ### My mission
-I’m passionate about building clean and efficient web solutions! With a focus on scalability and reusable components, I love creating systems that are easy to maintain and grow. My mission is to develop high-quality applications that not only perform well but also adapt to evolving needs, making development smoother for everyone involved.
+I'm passionate about building clean and efficient web solutions! I love creating systems that are easy to maintain and grow, always with a focus on scalability and component reuse. My mission is to develop high-quality applications that not only work well but also adapt to evolving needs, making development smoother for everyone involved. 
 
 <br>
 
