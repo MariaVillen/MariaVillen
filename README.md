@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:5499c7,100:bb8fce&fontAlign=50&animation=fadeIn&fontAlignY=30&fontSize=30&fontColor=fdfefe&rotate=0" alt="Maria Villen"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=AED6F1&width=600&lines=Hi+there!+;I+am+Maria+Villen;Web+Developer+(Frontend+and+Backend)bove+wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=AED6F1&width=600&lines=Hi+there!;I+am+Maria+Villen;Web+Developer+-+Frontend+%26+Backend)](https://git.io/typing-svg)
 
 ### My mission
 I’m passionate about building clean and efficient web solutions! With a focus on scalability and reusable components, I love creating systems that are easy to maintain and grow. My mission is to develop high-quality applications that not only perform well but also adapt to evolving needs, making development smoother for everyone involved.
